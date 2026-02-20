@@ -1,5 +1,8 @@
 # Object Detection on Raspberry Pi 4
 
+## Video Demonstration
+![Object Detection Demo](output.mp4)
+
 This project provides two scripts for real-time object detection using SSD MobileNet v3 on a Raspberry Pi 4.
 
 ## Files
